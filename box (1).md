@@ -10,7 +10,7 @@
 
 ## 1. Concept
 
-BOX is a matrix of identical, individually secured storage compartments that operates on two readings at once:
+BOX is a matrix of identical, individually secure storage compartments that operates on two readings at once:
 
 - **Publicly**: ordinary self-service storage — phone charging, small personal storage, left-luggage — legible at a glance, needing no explanation.
 - **Privately**: a peer-to-peer barter and Bitcoin bearer-custody layer, indistinguishable from the outside. No compartment reveals what kind of thing it holds.
